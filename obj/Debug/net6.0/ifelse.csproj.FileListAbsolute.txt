@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/ifelse/bin/Debug/net6.0/ifelse
+/Users/fatihbasar/Desktop/ifelse/bin/Debug/net6.0/ifelse.deps.json
+/Users/fatihbasar/Desktop/ifelse/bin/Debug/net6.0/ifelse.runtimeconfig.json
+/Users/fatihbasar/Desktop/ifelse/bin/Debug/net6.0/ifelse.dll
+/Users/fatihbasar/Desktop/ifelse/bin/Debug/net6.0/ifelse.pdb
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.dll
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/refint/ifelse.dll
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.pdb
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ifelse.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/ifelse/obj/Debug/net6.0/ref/ifelse.dll
